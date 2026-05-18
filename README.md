@@ -1,6 +1,6 @@
 # Coût de l'acier importé et prix des véhicules neufs aux États-Unis (1981 - 2024)
 
-Ce dépôt contient le projet d'analyse macroéconométrique et de modélisation de séries temporelles réalisé dans le cadre du Master d'Économie Appliquée. L'étude explore la dynamique de transmission des coûts des matières premières importées (l'acier) sur les prix à la consommation d'un secteur industriel clé aux États-Unis (l'automobile).
+Ce dépôt contient le projet d'économétrie de séries temporelles réalisé dans le cadre du Master Affaires Internationales et Développement de l'Université Paris-Dauphine. L'étude explore la dynamique de transmission des coûts des matières premières importées (l'acier) sur les prix à la consommation d'un secteur industriel clé aux États-Unis (l'automobile).
 
 ## Présentation du Projet
 L'objectif est d'évaluer empiriquement l'impact d'un renchérissement de l'acier importé sur l'Indice des Prix à la Consommation (IPC) des véhicules neufs aux USA sur une période de plus de 40 ans, caractérisée par d'importantes mutations industrielles et des cycles de tensions commerciales.
